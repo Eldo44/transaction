@@ -85,3 +85,4 @@ Other requirements, which are obvious, but also listed here explicitly:
 * The project should be buildable, and tests should also complete successfully. e.g. If maven is used, then mvn clean install should complete successfully.
 * The API should be able to deal with time discrepancy, which means, at any point of time, we could receive a transaction which have a timestamp of the past
 * Make sure to send the case in memory solution without database (including in-memory database)
+* Done
